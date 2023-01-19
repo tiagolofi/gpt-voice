@@ -16,9 +16,9 @@ pyinstaller -F bot.py
 python bot.py
 ```
 
-#### Código
+### Código
 
-```{python}
+```
 import chatgpt
 
 bot = chatgpt.ChatGPT()
